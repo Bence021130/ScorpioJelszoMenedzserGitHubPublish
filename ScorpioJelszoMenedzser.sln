@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScorpioJelszoMenedzser", "ScorpioJelszoMenedzser.csproj", "{D800B420-4303-4BA8-892A-9C4AB04F6CAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D800B420-4303-4BA8-892A-9C4AB04F6CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D800B420-4303-4BA8-892A-9C4AB04F6CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D800B420-4303-4BA8-892A-9C4AB04F6CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D800B420-4303-4BA8-892A-9C4AB04F6CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B32DB957-C811-40DB-AC07-9F317F22FECB}
+	EndGlobalSection
+EndGlobal
